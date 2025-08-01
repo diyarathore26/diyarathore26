@@ -43,12 +43,48 @@ Hi! I'm **Diya Rathore**, a dedicated frontend developer with a strong focus on 
 
 ## 🚀 Projects
 
-| Project | Description | Tech Used | Live Demo |
-|--------|-------------|-----------|-----------|
-| 🛍️ Forest Essentials Clone | Responsive e-commerce UI clone | HTML, CSS, JS | [Live Site](https://forest-essential.netlify.app/) |
-| ✅ ToDo CRUD App | Task manager with full CRUD operations | HTML, CSS, JS | [Live Site](https://todo-app-crud-application.netlify.app/) |
-| 🧮 Web Calculator | Fully functional calculator with keyboard support | HTML, CSS, JS | [Live Site](https://web-calculator-1.netlify.app/) |
+### 🛍️ Forest Essentials Clone
+**Description:**  
+A pixel-perfect, responsive UI clone of the official Forest Essentials website. Designed to showcase front-end proficiency in layout design, responsiveness, and aesthetic detail.
 
+**Features:**
+- Fully responsive product grid layout.
+- Hero sections, banners, offers, and navigation.
+- Hover animations and smooth transitions.
+- Mobile-friendly with semantic HTML and clean code.
+
+**Tech Used:** HTML, CSS, JavaScript  
+🔗 [Live Site](https://forest-essential.netlify.app/)
+
+---
+
+### ✅ ToDo CRUD App
+**Description:**  
+A fully functional ToDo web application with full CRUD (Create, Read, Update, Delete) operations and persistent storage using localStorage.
+
+**Features:**
+- Add, edit, mark complete, and delete tasks.
+- Clean and intuitive UI.
+- Persistent data with `localStorage`.
+- Responsive and works across devices.
+
+**Tech Used:** HTML, CSS, JavaScript  
+🔗 [Live Site](https://todo-app-crud-application.netlify.app/)
+
+---
+
+### 🧮 Web Calculator
+**Description:**  
+A modern web-based calculator that supports all basic arithmetic operations. Designed for both mouse and keyboard input with real-time result updates.
+
+**Features:**
+- Handles addition, subtraction, multiplication, and division.
+- Input via buttons and keyboard.
+- Clear, Delete, and History reset functions.
+- Visually pleasing UI with button animations.
+
+**Tech Used:** HTML, CSS, JavaScript  
+🔗 [Live Site](https://web-calculator-1.netlify.app/)
 ---
 
 ## 📈 Career Goals
