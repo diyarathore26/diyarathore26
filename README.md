@@ -85,6 +85,7 @@ A modern web-based calculator that supports all basic arithmetic operations. Des
 
 **Tech Used:** HTML, CSS, JavaScript  
 🔗 [Live Site](https://web-calculator-1.netlify.app/)
+
 ---
 
 ## 📈 Career Goals
