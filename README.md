@@ -106,14 +106,6 @@ A modern web-based calculator that supports all basic arithmetic operations. Des
 
 ## 📊 GitHub Stats
 
-![Diya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diyarathore26&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diyarathore26&layout=compact&theme=dark)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=diyarathore26&theme=github-compact)
-
-## 📊 GitHub Stats & Activity
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diyarathore26&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br />
