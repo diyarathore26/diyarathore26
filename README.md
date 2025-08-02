@@ -106,13 +106,31 @@ A modern web-based calculator that supports all basic arithmetic operations. Des
 
 ## 📊 GitHub Stats & Activity
 
+### 🧮 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diyarathore26&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br />
+</p>
+
+### 🗂️ Top Languages
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyarathore26&layout=compact&theme=dark" alt="Top Languages" />
-  <br />
+</p>
+
+### 📈 GitHub Activity Graph
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=diyarathore26&theme=github-compact" alt="GitHub Activity Graph" />
 </p>
+
+🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=diyarathore26&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=diyarathore26&theme=darkhub&row=1&margin-w=15" alt="GitHub Trophies" />
+</p>
+
 
 <!--
 **diyarathore26/diyarathore26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
