@@ -128,7 +128,10 @@ A modern web-based calculator that supports all basic arithmetic operations. Des
 
 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diyarathore26&theme=darkhub&row=1&margin-w=15&nocache=1" />
+ 
+  <img src="https://github-profile-trophy.vercel.app/?username=diyarathore26" alt="GitHub Trophies" />
+
+
 </p>
 
 
